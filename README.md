@@ -69,7 +69,7 @@ And your file will be compiled and shall run seamlessly
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Author: <a href="https://github.com/mayank-pq2q4" target="_blank">Mayank</a>
