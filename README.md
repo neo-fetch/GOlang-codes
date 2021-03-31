@@ -62,8 +62,10 @@ No requirements other than the golang packages. Install them [here](https://gola
 
 # Just type:
 
-```go run filename.go
-Your file will be compiled and shall run seamlessly
+```
+go run filename.go
+
+And your file will be compiled and shall run seamlessly
 ```
 ## :memo: License ##
 
