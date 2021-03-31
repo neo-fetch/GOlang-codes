@@ -64,9 +64,9 @@ No requirements other than the golang packages. Install them [here](https://gola
 
 ```
 go run filename.go
-
-And your file will be compiled and shall run seamlessly
 ```
+And your file will be compiled and shall run seamlessly
+
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
